@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.popular-heading {
+  font-family: 'Lobster';
+  color: #0f172a;
+}
+.languages-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 60%;
+  list-style-type: none;
+}
+.failure-img {
+  height: 250px;
+  width: 200px;
+}
+.selected-languages-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

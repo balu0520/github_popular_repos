@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.language-item {
+  margin: 5px;
+}
+.btn {
+  color: #1e293b;
+  border-width: 0px;
+  background-color: transparent;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 25px;
+  cursor: pointer;
+}
+.active-btn {
+  color: #0284c7;
+  border-width: 1px solid #0284c7;
+  border-radius: 8px;
+}
